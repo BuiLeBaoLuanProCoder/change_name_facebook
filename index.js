@@ -1,11 +1,11 @@
 const fullName = document.querySelector('.aov4n071 .lzcic4wl')
 const listNames = [
-  '=))',
-  'Lap Trinh Vien',
-  'Developer',
-  'Coder',
-  '1+1 =?',
-  'I Love You',
+  'Bùi Lê Bảo Luân',
+  'Yêu',
+  'Nguyễn Huyền Thanh Diệu',
+  'Số 1',
+  'Thế Giới',
+  'Moaaaaaaaaaaaaa:3',
 ]
 const objects = []
 const listColors = ['#2199dc', '#225ee3', '#22e3d4', '#aa22e3']
