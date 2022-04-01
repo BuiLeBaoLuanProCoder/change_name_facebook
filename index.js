@@ -1,4 +1,4 @@
-const fullName = document.querySelector('.m6dqt4wy .knj5qynh')
+const fullName = document.querySelector('.aov4n071 .lzcic4wl')
 const listNames = [
   'Bùi Lê Bảo Luân',
   'Yêu',
